@@ -10,3 +10,4 @@ My solutions to leetcode problems
 | 1431 | Kids With the Greatest Number of Candies | Easy | Array / Comparison     | ✅     |
 | 605  | Can Place Flowers              | Easy       | Array / Greedy         | ✅     |
 | 345  | Reverse Vowels of a String | Easy | String | ✅ |
+| 151  | Reverse Words in a String | Medium | String / Two Pointers | ✅ |
