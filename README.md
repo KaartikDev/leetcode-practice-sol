@@ -12,3 +12,4 @@ My solutions to leetcode problems
 | 345  | Reverse Vowels of a String | Easy | String | ✅ |
 | 151  | Reverse Words in a String | Medium | String / Two Pointers | ✅ |
 | 238  | Product of Array Except Self | Medium     | Array / Prefix–Suffix  | ✅     |
+| 283  | Move Zeroes                  | Easy       | Array / Two Pointers   | ✅     |
