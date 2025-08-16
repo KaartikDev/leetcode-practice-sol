@@ -14,3 +14,4 @@ My solutions to leetcode problems
 | 238  | Product of Array Except Self | Medium     | Array / Prefix–Suffix  | ✅     |
 | 283  | Move Zeroes                  | Easy       | Array / Two Pointers   | ✅     |
 | 334  | Increasing Triplet Subsequence | Medium     | Array / Greedy    | ✅     |
+| 443  | String Compression  | Medium     | Array / Two Pointers  | ✅     |
