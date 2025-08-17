@@ -15,3 +15,4 @@ My solutions to leetcode problems
 | 283  | Move Zeroes                  | Easy       | Array / Two Pointers   | ✅     |
 | 334  | Increasing Triplet Subsequence | Medium     | Array / Greedy    | ✅     |
 | 443  | String Compression  | Medium     | Array / Two Pointers  | ✅     |
+| 392 | Is Subsequence  | Easy       | Two Pointers   | ✅     |
