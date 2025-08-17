@@ -16,3 +16,4 @@ My solutions to leetcode problems
 | 334  | Increasing Triplet Subsequence | Medium     | Array / Greedy    | ✅     |
 | 443  | String Compression  | Medium     | Array / Two Pointers  | ✅     |
 | 392 | Is Subsequence  | Easy       | Two Pointers   | ✅     |
+| 11 | Container With Most Water | Medium | Two Pointers | ✅ |
