@@ -17,3 +17,4 @@ My solutions to leetcode problems
 | 443  | String Compression  | Medium     | Array / Two Pointers  | ✅     |
 | 392 | Is Subsequence  | Easy       | Two Pointers   | ✅     |
 | 11 | Container With Most Water | Medium | Two Pointers | ✅ |
+| 1679 | Max Number of K-Sum Pairs | Medium | Sorting / Two Pointers | ✅ |
