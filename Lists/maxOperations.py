@@ -32,7 +32,7 @@ class Solution(object):
                     j-=1
             else: #Goal is smaller than current (NEED TO MOVE LARGER SIDE)
                 
-                if nums[i] < nums[j]: #element at j is the smaller side
+                if nums[i] < nums[j]: #element at i is the smaller side
                     j-=1
                 else:
                     i+=1
