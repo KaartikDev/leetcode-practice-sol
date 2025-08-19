@@ -18,3 +18,4 @@ My solutions to leetcode problems
 | 392 | Is Subsequence  | Easy       | Two Pointers   | ✅     |
 | 11 | Container With Most Water | Medium | Two Pointers | ✅ |
 | 1679 | Max Number of K-Sum Pairs | Medium | Sorting / Two Pointers | ✅ | 
+| 643  | Maximum Average Subarray I  | Easy       | Sliding Window / Array  | ✅     |
