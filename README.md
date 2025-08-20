@@ -20,3 +20,4 @@ My solutions to leetcode problems
 | 1679 | Max Number of K-Sum Pairs | Medium | Sorting / Two Pointers | ✅ | 
 | 643  | Maximum Average Subarray I  | Easy       | Sliding Window / Array  | ✅     |
 | 1456 | Max # of Vowels in a Substring of Length | Medium | Sliding Window / Strings | ✅ |
+| 1004 | Max Consecutive Ones III | Medium | Sliding Window / Two Pointers | ✅     |
