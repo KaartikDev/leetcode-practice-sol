@@ -21,3 +21,5 @@ My solutions to leetcode problems
 | 643  | Maximum Average Subarray I  | Easy       | Sliding Window / Array  | ✅     |
 | 1456 | Max # of Vowels in a Substring of Length | Medium | Sliding Window / Strings | ✅ |
 | 1004 | Max Consecutive Ones III | Medium | Sliding Window / Two Pointers | ✅     |
+| 1493 | Longest Subarray of 1's After Deleting One Element | Medium | Sliding Window  | ✅ |
+
