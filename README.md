@@ -23,4 +23,4 @@ My solutions to leetcode problems
 | 1004 | Max Consecutive Ones III | Medium | Sliding Window / Two Pointers | ✅     |
 | 1493 | Longest Subarray of 1's After Deleting One Element | Medium | Sliding Window  | ✅ |
 | 1732 | Find the Highest Altitude | Easy | Prefix Sum / Running Total | ✅     |
-
+| 724 | Find Pivot Index | Easy | Prefix Sum / Array | ✅ |
