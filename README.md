@@ -25,3 +25,4 @@ My solutions to leetcode problems
 | 1732 | Find the Highest Altitude | Easy | Prefix Sum / Running Total | ✅     |
 | 724 | Find Pivot Index | Easy | Prefix Sum / Array | ✅ |
 | 2215 | Find the Difference of Two Arrays | Easy | Hash Set / Array | ✅     |
+| 1207 | Unique Number of Occurrences | Easy | Hash Map / Hash Set | ✅     |
