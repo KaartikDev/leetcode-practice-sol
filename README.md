@@ -27,3 +27,4 @@ My solutions to leetcode problems
 | 2215 | Find the Difference of Two Arrays | Easy | Hash Set / Array | ✅     |
 | 1207 | Unique Number of Occurrences | Easy | Hash Map / Hash Set | ✅     |
 | 1657 | Determine if Two Strings Are Close | Medium | Hash Map / Frequency | ✅   |
+| 2352 | Equal Row and Column Pairs | Medium | Hash Map / Tuples / Matrix | ✅     |
