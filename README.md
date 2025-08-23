@@ -29,3 +29,4 @@ My solutions to leetcode problems
 | 1657 | Determine if Two Strings Are Close | Medium | Hash Map / Frequency | ✅   |
 | 2352 | Equal Row and Column Pairs | Medium | Hash Map / Tuples / Matrix | ✅     |
 | 2390 | Removing Stars From a String | Medium | Stack / String | ✅     |
+| 735  | Asteroid Collision | Medium | Stack / Simulation | ✅     |
