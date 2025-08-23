@@ -28,3 +28,4 @@ My solutions to leetcode problems
 | 1207 | Unique Number of Occurrences | Easy | Hash Map / Hash Set | ✅     |
 | 1657 | Determine if Two Strings Are Close | Medium | Hash Map / Frequency | ✅   |
 | 2352 | Equal Row and Column Pairs | Medium | Hash Map / Tuples / Matrix | ✅     |
+| 2390 | Removing Stars From a String | Medium | Stack / String | ✅     |
