@@ -30,3 +30,4 @@ My solutions to leetcode problems
 | 2352 | Equal Row and Column Pairs | Medium | Hash Map / Tuples / Matrix | ✅     |
 | 2390 | Removing Stars From a String | Medium | Stack / String | ✅     |
 | 735  | Asteroid Collision | Medium | Stack / Simulation | ✅     |
+| 394 | Decode String | Medium     | Stack / String Parsing | ✅     |
