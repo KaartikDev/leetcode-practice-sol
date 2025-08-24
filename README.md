@@ -31,3 +31,4 @@ My solutions to leetcode problems
 | 2390 | Removing Stars From a String | Medium | Stack / String | ✅     |
 | 735  | Asteroid Collision | Medium | Stack / Simulation | ✅     |
 | 394 | Decode String | Medium     | Stack / String Parsing | ✅     |
+| 933 | Number of Recent Calls   | Easy       | Queue / Sliding Window  | ✅     |
