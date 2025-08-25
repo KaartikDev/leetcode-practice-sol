@@ -32,3 +32,4 @@ My solutions to leetcode problems
 | 735  | Asteroid Collision | Medium | Stack / Simulation | ✅     |
 | 394 | Decode String | Medium     | Stack / String Parsing | ✅     |
 | 933 | Number of Recent Calls   | Easy       | Queue / Sliding Window  | ✅     |
+| 649 | Dota2 Senate | Medium     | Queues / Simulation / Greedy  | ✅  
