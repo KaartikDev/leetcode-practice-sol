@@ -34,3 +34,4 @@ My solutions to leetcode problems
 | 933 | Number of Recent Calls   | Easy       | Queue / Sliding Window  | ✅     |
 | 649 | Dota2 Senate | Medium     | Queues / Simulation / Greedy  | ✅  
 | 2095 | Delete the Middle Node of a Linked List | Medium     | Linked List / Two Pointers | ✅     |
+| 328 | Odd Even Linked List | Medium     | Linked List / Two Pointers     | ✅     |
