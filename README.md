@@ -36,4 +36,5 @@ My solutions to leetcode problems
 | 2095 | Delete the Middle Node of a Linked List | Medium   | Linked List / Two Pointers | ✅     |
 | 328 | Odd Even Linked List | Medium     | Linked List / Two Pointers     | ✅     |
 | 206  | Reverse Linked List   | Easy       | Linked List    | ✅     |
-| 2130 | Maximum Twin Sum of a Linked List | Medium | Linked List / Fast–Slow / In-place Reverse| ✅  |
+| 2130 | Max Twin Sum of a Linked List | Medium | Linked List / Fast–Slow / In-place Reverse| ✅  |
+| 104  | Maximum Depth of Binary Tree       | Easy       | Tree / DFS / Recursion | ✅     |
