@@ -38,3 +38,4 @@ My solutions to leetcode problems
 | 206  | Reverse Linked List   | Easy       | Linked List    | ✅     |
 | 2130 | Max Twin Sum of a Linked List | Medium | Linked List / Fast–Slow / In-place Reverse| ✅  |
 | 104  | Maximum Depth of Binary Tree       | Easy       | Tree / DFS / Recursion | ✅     |
+| 872  | Leaf-Similar Trees           | Easy       | Tree / Stack (Iterative Inorder DFS) | ✅     |
