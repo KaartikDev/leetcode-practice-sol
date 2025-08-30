@@ -41,3 +41,4 @@ My solutions to leetcode problems
 | 872  | Leaf-Similar Trees           | Easy       | Tree / Stack (Iterative Inorder DFS) | ✅     |
 | 1448 | Count Good Nodes in Binary Tree | Medium | Tree DFS / Stack | ✅ |
 | 437 | Path Sum III | Medium | Tree / DFS (Recursion, start-from-each-node) | ✅ |
+| 1372 | Longest ZigZag Path in a Binary Tree | Medium | Tree / DFS | ✅ |
