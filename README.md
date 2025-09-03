@@ -44,3 +44,4 @@ My solutions to leetcode problems
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Tree / DFS | ✅ |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium     | Tree / DFS (Path Reconstruction) | ✅     |
 | 199  | Binary Tree Right Side View     | Medium     | Binary Tree / BFS      | ✅     |
+| 1161 | Maximum Level Sum of a Binary Tree | Medium     | Binary Tree / BFS      | ✅     |
