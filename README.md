@@ -42,7 +42,8 @@ My solutions to leetcode problems
 | 1448 | Count Good Nodes in Binary Tree | Medium | Tree DFS / Stack | ✅ |
 | 437 | Path Sum III | Medium | Tree / DFS (Recursion, start-from-each-node) | ✅ |
 | 1372 | Longest ZigZag Path in a Binary Tree | Medium | Tree / DFS | ✅ |
-| 236 | Lowest Common Ancestor of a Binary Tree | Medium     | Tree / DFS (Path Reconstruction) | ✅     |
+| 236 | Lowest Common Ancestor of a Binary Tree | Medium     | Tree / DFS | ✅     |
 | 199  | Binary Tree Right Side View     | Medium     | Binary Tree / BFS      | ✅     |
 | 1161 | Maximum Level Sum of a Binary Tree | Medium     | Binary Tree / BFS      | ✅     |
 | 700 | Search in a Binary Search Tree | Easy       | BST / Iteration | ✅     |
+| 450 | Delete Node in a BST   | Medium     | BST / Recursion       | ✅     |
