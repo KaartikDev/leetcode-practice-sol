@@ -47,3 +47,4 @@ My solutions to leetcode problems
 | 1161 | Maximum Level Sum of a Binary Tree | Medium     | Binary Tree / BFS      | ✅     |
 | 700 | Search in a Binary Search Tree | Easy       | BST / Iteration | ✅     |
 | 450 | Delete Node in a BST   | Medium     | BST / Recursion       | ✅     |
+| 88  | Merge Sorted Array  | Easy       | Two Pointers / Array (from end) | ✅     |
