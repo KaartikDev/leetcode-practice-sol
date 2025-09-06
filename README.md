@@ -49,3 +49,4 @@ My solutions to leetcode problems
 | 450 | Delete Node in a BST   | Medium     | BST / Recursion       | ✅     |
 | 88  | Merge Sorted Array  | Easy       | Two Pointers / Array (from end) | ✅     |
 | 841 | Keys and Rooms   | Medium     | Graph / DFS (Stack) | ✅     |
+| 547 | Number of Provinces  | Medium     | Graph / DFS    | ✅     |
