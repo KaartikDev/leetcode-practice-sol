@@ -50,3 +50,4 @@ My solutions to leetcode problems
 | 88  | Merge Sorted Array  | Easy       | Two Pointers / Array (from end) | ✅     |
 | 841 | Keys and Rooms   | Medium     | Graph / DFS (Stack) | ✅     |
 | 547 | Number of Provinces  | Medium     | Graph / DFS    | ✅     |
+| 695 | Max Area of Island    | Medium     | Graph / DFS (Grid)  | ✅     |
