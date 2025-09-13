@@ -1,5 +1,5 @@
 # leetcode-practice-sol
-My solutions to leetcode problems
+My solutions to leetcode and neetcode problems
 
 
 # LeetCode Practice Tracker
@@ -51,3 +51,13 @@ My solutions to leetcode problems
 | 841 | Keys and Rooms   | Medium     | Graph / DFS (Stack) | ✅     |
 | 547 | Number of Provinces  | Medium     | Graph / DFS    | ✅     |
 | 695 | Max Area of Island    | Medium     | Graph / DFS (Grid)  | ✅     |
+
+## NeetCode 150
+
+| Title                     | Difficulty | Pattern                  | Status |
+|---------------------------|------------|--------------------------|--------|
+| Valid Anagram             | Easy       | Hash / Freq Map          | ✅     |
+| Two Sum                   | Easy       | Hash Map / Array         | ✅     |
+| Group Anagrams            | Medium     | Hash Map / Strings       | ✅     |
+| Top K Frequent Elements   | Medium     | Hash Map / Bucket Sort   | ✅     |
+| Encode and Decode Strings | Medium     | Strings / Pointer        | ✅     |
