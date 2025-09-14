@@ -61,3 +61,7 @@ My solutions to leetcode and neetcode problems
 | Group Anagrams            | Medium     | Hash Map / Strings       | ✅     |
 | Top K Frequent Elements   | Medium     | Hash Map / Bucket Sort   | ✅     |
 | Encode and Decode Strings | Medium     | Strings / Pointer        | ✅     |
+| Valid Sudoku                 | Medium     | 2D Array                  | ✅     |
+| Longest Consecutive Sequence | Medium     | Hash Set / Linear Scan    | ✅     |
+| Valid Palindrome             | Easy       | Two Pointers / Strings    | ✅     |
+| Two Sum II                   | Medium     | Two Pointers / Sorted     | ✅     |
