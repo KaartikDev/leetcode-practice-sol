@@ -65,3 +65,4 @@ My solutions to leetcode and neetcode problems
 | Longest Consecutive Sequence | Medium     | Hash Set / Linear Scan    | ✅     |
 | Valid Palindrome             | Easy       | Two Pointers / Strings    | ✅     |
 | Two Sum II                   | Medium     | Two Pointers / Sorted     | ✅     |
+| Trapping Rain Water | Hard       | Two Pointers | ✅      |
