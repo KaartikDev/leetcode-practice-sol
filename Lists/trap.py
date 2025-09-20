@@ -42,7 +42,3 @@ class Solution:
         return sumWater
         #O(N) time complexity to precompute right highest, reverse list
         #O(N) space ecomplexity to store right highest walls
-
-
-
-            

@@ -66,3 +66,4 @@ My solutions to leetcode and neetcode problems
 | Valid Palindrome             | Easy       | Two Pointers / Strings    | ✅     |
 | Two Sum II                   | Medium     | Two Pointers / Sorted     | ✅     |
 | Trapping Rain Water | Hard       | Two Pointers | ✅      |
+| Best Time to Buy and Sell Stock | Easy       | Two Pointers / Window    | ✅     |
