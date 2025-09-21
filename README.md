@@ -67,3 +67,5 @@ My solutions to leetcode and neetcode problems
 | Two Sum II                   | Medium     | Two Pointers / Sorted     | ✅     |
 | Trapping Rain Water | Hard       | Two Pointers | ✅      |
 | Best Time to Buy and Sell Stock | Easy       | Two Pointers / Window    | ✅     |
+| Longest Substring Without Repeating Characters | Medium     | Sliding Window | ✅     |
+| Longest Repeating Character Replacement | Medium | Sliding Window / Freq Map | ✅    |
