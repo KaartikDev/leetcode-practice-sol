@@ -1,5 +1,5 @@
 class Solution:
-    def trap(self, height: List[int]) -> int:
+    def trap(self, height: list[int]) -> int:
         #first create an array that has the largest upcoming right wall for each position i
         
         maxRightHeights = []
