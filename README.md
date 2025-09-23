@@ -70,3 +70,6 @@ My solutions to leetcode and neetcode problems
 | Longest Substring Without Repeating Characters | Medium     | Sliding Window | ✅     |
 | Longest Repeating Character Replacement | Medium | Sliding Window / Freq Map | ✅    |
 | Permutation in String | Medium     | Sliding Window / Freq Map | ✅      |
+| Min Stack         | Medium     | Stack / Auxiliary Min Stack | ✅      |
+| Valid Parentheses | Easy       | Stack / Matching            | ✅      |
+| Evaluate Reverse Polish Notation | Medium     | Stack / Evaluate | ✅      |
