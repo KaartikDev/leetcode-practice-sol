@@ -73,3 +73,4 @@ My solutions to leetcode and neetcode problems
 | Min Stack         | Medium     | Stack / Auxiliary Min Stack | ✅      |
 | Valid Parentheses | Easy       | Stack / Matching            | ✅      |
 | Evaluate Reverse Polish Notation | Medium     | Stack / Evaluate | ✅      |
+| Generate Parentheses | Medium     | Backtracking / Constraints | ✅      |

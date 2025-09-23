@@ -1,5 +1,5 @@
 class Solution:
-    def evalRPN(self, tokens: List[str]) -> int:
+    def evalRPN(self, tokens: list[str]) -> int:
         tokenStack= [] #valid stack garunteed
         operators = set(['+','-','/','*'])
         for tok in tokens:
